@@ -13,6 +13,22 @@
 
 I'm passionate about web development, machine learning, and cloud computing. Always eager to learn and explore new technologies!
 
+## 🔥 My Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushChauhan9389&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Ayush's github stats" />
+
+### GitHub Contributions
+![](https://img.shields.io/badge/Total%20Contributions-493-brightgreen)
+![](https://img.shields.io/badge/Current%20Streak-36%20days-orange)
+![](https://img.shields.io/badge/Longest%20Streak-36%20days-red)
+
+### Most Used Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-49.59%25-yellow)
+![CSS](https://img.shields.io/badge/CSS-28.93%25-purple)
+![SCSS](https://img.shields.io/badge/SCSS-9.57%25-pink)
+![HTML](https://img.shields.io/badge/HTML-7.98%25-orange)
+![Dart](https://img.shields.io/badge/Dart-3.94%25-blue)
+
 ### 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,11 +50,11 @@ I'm passionate about web development, machine learning, and cloud computing. Alw
 - Deepening my understanding of Machine Learning
 - Exploring more cloud computing concepts and tools
 
+
 ## 📫 Let's Connect!
 
 - GitHub: [AyushChauhan9389](https://github.com/AyushChauhan9389)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ayush-chauhan-a05687303/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about tech!
 
