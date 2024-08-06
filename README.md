@@ -16,18 +16,10 @@ I'm passionate about web development, machine learning, and cloud computing. Alw
 ## 🔥 My Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushChauhan9389&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Ayush's github stats" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AyushChauhan9389&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### GitHub Contributions
-![](https://img.shields.io/badge/Total%20Contributions-493-brightgreen)
-![](https://img.shields.io/badge/Current%20Streak-36%20days-orange)
-![](https://img.shields.io/badge/Longest%20Streak-36%20days-red)
 
-### Most Used Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-49.59%25-yellow)
-![CSS](https://img.shields.io/badge/CSS-28.93%25-purple)
-![SCSS](https://img.shields.io/badge/SCSS-9.57%25-pink)
-![HTML](https://img.shields.io/badge/HTML-7.98%25-orange)
-![Dart](https://img.shields.io/badge/Dart-3.94%25-blue)
+
 
 ### 💻 Tech Stack
 
