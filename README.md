@@ -17,9 +17,11 @@ I'm passionate about web development, machine learning, and cloud computing. Alw
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api?username=AyushChauhan9389&layout=compact&theme=vision-friendly-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=AyushChauhan9389&layout=compact&theme=vision-friendly-dark)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushChauhan9389&layout=compact&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushChauhan9389&layout=compact&theme=vision-friendly-dark)
 
 
 ### 💻 Tech Stack
