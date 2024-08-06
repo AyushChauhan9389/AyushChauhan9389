@@ -17,9 +17,7 @@ I'm passionate about web development, machine learning, and cloud computing. Alw
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=AyushChauhan9389&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=AyushChauhan9389&theme=algolia&show_icons=true&hide_border=true&count_private=true))
-
-![Top Languages](https://github-readme-stats.vercel.app/api?username=AyushChauhan9389&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=AyushChauhan9389&layout=compact&theme=vision-friendly-dark)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushChauhan9389&theme=algolia&hide_border=true)
 
