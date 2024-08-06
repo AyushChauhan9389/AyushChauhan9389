@@ -16,7 +16,7 @@ I'm passionate about web development, machine learning, and cloud computing. Alw
 ## 🔥 My Stats
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AyushChauhan9389&theme=dark&background=000000" alt="Ayush's github stats" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="Ayush's github stats" />
 
 
 
