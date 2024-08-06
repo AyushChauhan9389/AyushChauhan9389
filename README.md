@@ -19,7 +19,7 @@ I'm passionate about web development, machine learning, and cloud computing. Alw
 
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=AyushChauhan9389&layout=compact&theme=vision-friendly-dark)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushChauhan9389&theme=algolia&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushChauhan9389&layout=compact&theme=vision-friendly-dark)
 
 
 ### 💻 Tech Stack
