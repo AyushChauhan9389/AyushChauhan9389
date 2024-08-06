@@ -7,7 +7,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=AyushChauhan9389&style=flat-square&color=blue" alt=""/>
 </div>
-# 👋 Hi there, I'm Ayush Chauhan
+👋 Hi there, I'm Ayush Chauhan
 
 ## 🎓 Student & Aspiring Developer
 
